@@ -1,2 +1,1 @@
-# cd601
-Apuntes GCP Associate Cloud Engineer Certification
+# cd601 Apuntes de apoyo para preparar la certificación Google Cloud Associate Engineer.
